@@ -830,7 +830,7 @@
         },
         {
             "type": "Microsoft.Resources/deployments",
-            "apiVersion": "2018-04-01",
+            "apiVersion": "2024-11-01",
             "name": "networkTemplate",
             "properties": {
                 "mode": "Incremental",
